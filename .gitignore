@@ -45,3 +45,5 @@ out/
 !**/src/test/**
 data/
 src
+/data/
+/.idea/
